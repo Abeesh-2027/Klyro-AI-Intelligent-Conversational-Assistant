@@ -1,0 +1,21 @@
+.top-navbar {
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  border-bottom: 1px solid #eee;
+}
+
+.navbar-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.model-name {
+  font-size: 16px;
+  font-weight: 600;
+  color: #111;
+}
